@@ -18,6 +18,6 @@ This repository provides a hands-on introduction to Graph Neural Networks (GNNs)
 
 ## Getting Started
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-username/gcn-karate-club.git
